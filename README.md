@@ -89,3 +89,17 @@ When you are finished with the assignment, push your git repository to
 GitHub so that the GitHub version of your repository is up to
 date. There should be four PNG files and four R code files.
 
+the plots you need to construct are featured below,
+
+
+# plot 1
+![plot1.png](https://github.com/owenlarson117/Exploratory-data-analysis-proj/blob/main/plot1.png)
+
+# plot 2
+![plot2.png](https://github.com/owenlarson117/Exploratory-data-analysis-proj/blob/main/plot2.png)
+
+# plot 3
+![plot2.png](https://github.com/owenlarson117/Exploratory-data-analysis-proj/blob/main/plot3.png)
+
+# plot 4
+![plot2.png](https://github.com/owenlarson117/Exploratory-data-analysis-proj/blob/main/plot4.png)
