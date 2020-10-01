@@ -99,7 +99,7 @@ the plots you need to construct are featured below,
 ![plot2.png](https://github.com/owenlarson117/Exploratory-data-analysis-proj/blob/main/plot2.png)
 
 # plot 3
-![plot2.png](https://github.com/owenlarson117/Exploratory-data-analysis-proj/blob/main/plot3.png)
+![plot3.png](https://github.com/owenlarson117/Exploratory-data-analysis-proj/blob/main/plot3.png)
 
 # plot 4
-![plot2.png](https://github.com/owenlarson117/Exploratory-data-analysis-proj/blob/main/plot4_copy.png)
+![plot4.png](https://github.com/owenlarson117/Exploratory-data-analysis-proj/blob/main/plot4.png)
